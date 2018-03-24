@@ -17,7 +17,7 @@ Svrha sistema je pronalazak slobodnih stolova u lokalima za izlazak. Putem ovog 
 - Pretraživanje lokala po imenu i adresi
 
 ## FUNKCIONALNOSTI:
-- Registracija (verifikacija preko broja telefona)
+- Registracija (verifikacija preko e-maila)
 - Prijava na sistem putem broja telefona i prethodno postavljene šifre
 - Pregled dostupnih stolova za rezervaciju u željenom radijusu korisnika
 - Rezervacija slobodnih stolova u željenom lokalu
