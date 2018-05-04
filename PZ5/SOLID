@@ -1,0 +1,23 @@
+SOLID PRINCIPI:
+1. Pojedinacne odogovornosti
+Klasa E-Dernek se bavi i dodavanjem i pretragom što bi se trebalo 
+razdvojiti pravljenjem interfejsa za obje te radnje.
+
+2. Otvorenost/ Zatvorenost
+Ovaj princip je ispoštovan jer je moguće dodavati nove korisnike, 
+lokale i predstojeće događaje. Sve klase imaju privatne atribute 
+i sistem se ne može modificirati.
+
+3. Liskov princip zamjene
+U dijagramu klasa nema nasljeđivanja, zbog toga je ispoštovan.
+Da se naslijeđene klase nisu mogle mijenjati klasama iznad njih,
+princip ne bi bio ispoštovan.
+
+4. Odvajanje interfejsa
+Ovaj princip nije ispostovan jer nema nijednog interfejsa.
+Nema uvida u metode nijedne klase te je to potrebno promijeniti.
+
+5. Inverzija zavisnosti
+Pošto nema nikakvog nasljeđivanja, ovaj princip je također ispoštovan.
+Da ono postoji bilo bi potrebno provjeriti da li klasa zavisi od detalja
+u klasama koje je naslijeđuju.
