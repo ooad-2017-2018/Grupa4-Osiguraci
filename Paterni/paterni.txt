@@ -10,6 +10,11 @@ Omogućava izdvajanje određenih koraka algoritma u odvojene podklase.
 Struktura algoritma se ne mijenja - mali dijelovi operacija se izdvajaju i ti se dijelovi mogu implementirati različito.
 Nije iskorišten u našem projektu.
 
+Factory Method pattern
+Uloga Factory Method paterna je da omogući kreiranje objekata na način da podklase odluče koju klasu je instancirati. 
+Različite podklase mogu na različite načine implementirati interfejs. 
+Nije korišten u našem projektu jer ne postoji dobro mjesto za njegovu upotrebu.
+
 Strategy patern 
 Izdvaja algoritam iz matične klase i uključuje ga u posebne klase.
 Pogodan je kada postoje različiti primjenjivi algoritmi (strategije) za neki problem.
@@ -17,19 +22,10 @@ Strategy patern omogućava klijentu izbor jednog od algoritma iz familije algori
 Algoritmi su neovisni od klijenata koji ih koriste.
 Nije iskorišten u našem projektu. 
 
-Prototype patern
-Uloga Prototype paterna je da kreira nove objekte klonirajući jedan od postojećih objekata. Ako je trošak kreiranja 
-novog objekta velik i kreiranje objekta je resursno zahtjevno tada se vrši kloniranje već postojećeg objekata.
-Prototype dizajn patern dozvoljava da se kreiraju prilagoðeni objekti bez poznavanja njihove klase ili detalja kako je
-objekat kreiran.
 
 Singleton pattern
 Uloga Singleton paterna je da osigura da se klasa može instancirati samo jednom i da osigura globalni pristup kreiranoj instanci klase. 
 Postoji više objekata koje je potrebno samo jednom instancirati i nad kojim je potrebna jedinstvena kontrola pristupa.
-Nije iskorišten u našem projektu.
-
-Observer pattern
-Uloga Observer paterna je da uspostavi relaciju između objekata tako kada jedan objekat promijeni stanje, drugi zainteresirani objekti se obavještavaju.
 Nije iskorišten u našem projektu.
           
 State pattern
@@ -40,13 +36,3 @@ Lokalizira svako stanje u posebnu klasu
 Uklanja probleme sa razbacanim if iskazima u programu koji bi se koristilli za ispitivanje koje je stanje
 Podržava Otvoren-Zatvoren princip.
 Nije iskorišten u našem projektu.
-
-Decorator pattern
-Osnovna namjena Decorator paterna je da omogući dinamičko dodavanje novih elemenata i ponašanja (funkcionalnosti) postojećim objektima. 
-Nije iskorišten u našem projektu.
-
-
-Factory Method pattern
-Uloga Factory Method paterna je da omogući kreiranje objekata na način da podklase odluče koju klasu je instancirati. 
-Različite podklase mogu na različite načine implementirati interfejs. 
-Nije korišten u našem projektu jer ne postoji dobro mjesto za njegovu upotrebu.
