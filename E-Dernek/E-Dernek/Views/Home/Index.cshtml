@@ -1,0 +1,84 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <H1 align="Center"> E - DERNEK</H1>
+    <h2 align="center">Sviđa vam se šta vidite na slikama ispod? Saznajte kako im se možete pridružiti, u samo par klikova, sa Vašeg kauča!</h2>
+    <!--<p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>-->
+</div>
+<div id="slike" class="carousel slide" data-ride="carousel" style="margin-top:-5px">
+    <ol class="carousel-indicators">
+        <li data-target="#slike" data.slide-to="0" class="active"></li>
+        <li data-target="#slike" data.slide-to="1"></li>
+        <li data-target="#slike" data.slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="~/Content/Images/party1.jpg" />
+            <div class="carousel-caption">
+                <p></p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/Content/Images/party2.jpg" />
+            <div class="carousel-caption">
+                <p></p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/Content/Images/party3.jpg" />
+            <div class="carousel-caption">
+                <p</p>
+            </div>
+        </div>
+    </div>
+
+    <a class="left carousel-control" herf="slike" role="button" data-slide="prev">
+        <span class="icon-prev"></span>
+
+    </a>
+
+    <a class="right carousel-control" herf="slike" role="button" data-slide="next">
+        <span class="icon-next"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    <script>
+        $("#carousel").carousel(
+            {
+                interval: 2000
+
+            });
+    </script>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>KALENDAR BUDUĆIH DOGAĐAJA</h2>
+        <p>
+            <iframe src="https://calendar.google.com/calendar/b/1/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTz=0&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=l7oca420jshmdjjm3hek34ot6k%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="350" height="300" frameborder="0" scrolling="no"></iframe>
+        </p>
+    </div>
+    <div class="col-md-6">
+        <h2>e - Dernek Tim</h2>
+        <p>
+            Mi smo samo dva momka koja jednu noc nisu mogli da rezervišu stol, u MY FACE-u, za Seku Aleksić, zbog gužve na telefonima. 
+            Sve ostalo je plod naseg truda i rada :). Nadam se ćete uživati i javiti nam se sa sugestijama.
+        </p>
+    </div>
+    <!--<div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>-->
+</div>
+<div class="row">
+    <h3 align="Center"> Ideja je da olakšamo mladima, a i lokalima, proces rezervacije stolova, te automatizujemo cijeli proces.</h3>
+    <h4 align="Center"> Izgled registracije lokala</h4>
+    <div class="item">
+        <img src="~/Content/Images/uwpizgled.jpg" />
+        <div class="carousel-caption">
+            <p></p>
+        </div>
+    </div>
+</div>
