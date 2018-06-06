@@ -14,5 +14,11 @@ namespace E_Dernek.Models
         public int Kapacitet { get; set; }
         public string Naziv { get; set; }
         public string Slika { get; set; }
+
+        static public bool SpremiRezervaciju(int id)
+        {
+            //spremanje rezervacije
+            return true;
+        }
     }
 }

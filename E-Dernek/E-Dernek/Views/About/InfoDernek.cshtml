@@ -1,0 +1,74 @@
+﻿@model E_Dernek.Models.Dernek
+@{
+    ViewBag.Title = "Info";
+}
+
+<h2>Detalji o odabranoj ponudi:</h2>
+<html>
+<head>
+    <style>
+        body {
+            background: url(https://cdn-images-1.medium.com/max/1200/1*N_l3sQECv4Yhght8HtwMGg.jpeg) no-repeat bottom fixed;
+            background-size: initial;
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
+<br />
+<div class="row">
+    <div class="col-md-4">
+
+        <section id="picture">
+            <img src="@Html.Action("vratiSliku", "Dernek", new { id = Model.IDDerneka})" alt="Sample Image" width="400" height="500" />
+
+        </section>
+    </div>
+
+    <div class="col-md-6">
+
+        <section id="informations">
+
+
+            <div class="form-group">
+                @Html.LabelFor(m => Model.Naziv, new { @class = "col-md-2 control-label" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => Model.Naziv, new { @class = "form-control", @readonly = "readonly" })
+
+                </div>
+            </div>
+            <br />
+            <br />
+            <br />
+            <div class="form-group">
+                @Html.LabelFor(m => Model.Kapacitet, new { @class = "col-md-2 control-label" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => Model.Kapacitet, new { @class = "form-control", @readonly = "readonly" })
+
+                </div>
+            </div>
+            <br />
+            <br />
+
+
+
+
+        </section>
+
+    </div>
+
+
+
+<div class="row">
+
+    <div class="col-md-4">
+
+        <div class="form-group">
+            <div class="col-md-offset-5 col-md-8">
+                <input type="submit" value="Rezervisi" class="btn btn-primary" onclick="location.href='@Url.Action("rezervacija1", "About",new { id = Model.IDDerneka })'" />
+            </div>
+        </div>
+        <br />
+        <br />
