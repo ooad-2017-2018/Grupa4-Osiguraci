@@ -234,10 +234,14 @@
     <Content Include="Content\Images\party2.jpg" />
     <Content Include="Content\Images\party3.jpg" />
     <Content Include="Content\Images\uwpizgled.jpg" />
+    <Content Include="Content\Potvrda.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Resource Include="Potvrda.wav" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">

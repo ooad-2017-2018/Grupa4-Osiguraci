@@ -250,3 +250,5 @@ C:\Users\Esma\Desktop\Grupa4-Osiguraci\E-Dernek\E-Dernek\obj\Debug\E-Dernek.cspr
 C:\Users\Esma\Desktop\Grupa4-Osiguraci\E-Dernek\E-Dernek\obj\Debug\E-Dernek.csproj.CopyComplete
 C:\Users\Esma\Desktop\Grupa4-Osiguraci\E-Dernek\E-Dernek\obj\Debug\E-Dernek.dll
 C:\Users\Esma\Desktop\Grupa4-Osiguraci\E-Dernek\E-Dernek\obj\Debug\E-Dernek.pdb
+C:\Users\Esma\Desktop\Grupa4-Osiguraci\E-Dernek\E-Dernek\bin\Content\Potvrda.wav
+C:\Users\Esma\Desktop\Grupa4-Osiguraci\E-Dernek\E-Dernek\obj\Debug\E-Dernek.g.resources
