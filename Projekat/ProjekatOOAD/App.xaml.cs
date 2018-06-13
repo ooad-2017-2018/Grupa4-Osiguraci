@@ -27,7 +27,7 @@ namespace ProjekatOOAD
         // This MobileServiceClient has been configured to communicate with the Azure Mobile Service and
         // Azure Gateway using the application url. You're all set to start working with your Mobile Service!
         public static Microsoft.WindowsAzure.MobileServices.MobileServiceClient Miran17858Client = new Microsoft.WindowsAzure.MobileServices.MobileServiceClient(
-        "https://miran17858.azurewebsites.net");
+        "https://aspbaza.azurewebsites.net");
 
 
         /// <summary>
@@ -36,8 +36,7 @@ namespace ProjekatOOAD
         /// </summary>
         /// 
 
-        //public static MobileServiceClient MobileService = new MobileServiceClient("https://ooadShaged.azurewebsites.net");
-        public static MobileServiceClient MobileService = new MobileServiceClient("https://miran17858.azurewebsites.net");
+        public static MobileServiceClient MobileService = new MobileServiceClient("https://aspbaza.azurewebsites.net");
 
         public App()
         {

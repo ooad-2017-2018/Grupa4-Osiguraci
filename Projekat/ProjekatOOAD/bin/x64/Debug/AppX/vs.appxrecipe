@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T21:05:51.694</Modified>
+      <Modified>2018-06-13T21:39:25.114</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\ProjekatOOAD.exe">
       <PackagePath>entrypoint\ProjekatOOAD.exe</PackagePath>
-      <Modified>2018-06-06T21:05:39.508</Modified>
+      <Modified>2018-06-13T21:39:22.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\.nuget\packages\expression.blend.sdk\1.0.2\lib\netcore451\Windows.UI.Interactivity.dll">
       <PackagePath>Windows.UI.Interactivity.dll</PackagePath>
@@ -509,77 +509,77 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\dernek_slika.jpg">
       <PackagePath>Assets\dernek_slika.jpg</PackagePath>
-      <Modified>2018-06-06T01:44:05.994</Modified>
+      <Modified>2018-06-06T23:10:15.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\e-dernek.jpg">
       <PackagePath>Assets\e-dernek.jpg</PackagePath>
-      <Modified>2018-06-06T01:44:15.973</Modified>
+      <Modified>2018-06-06T23:10:15.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\zanzibar.jpg">
       <PackagePath>Assets\zanzibar.jpg</PackagePath>
-      <Modified>2018-06-06T00:08:18.339</Modified>
+      <Modified>2018-06-06T23:10:15.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\zanzibar.jpg">
       <PackagePath>zanzibar.jpg</PackagePath>
-      <Modified>2018-06-06T00:08:18.886</Modified>
+      <Modified>2018-06-06T23:10:30.998</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\logo.PNG">
       <PackagePath>Assets\logo.PNG</PackagePath>
-      <Modified>2018-06-06T00:08:18.292</Modified>
+      <Modified>2018-06-06T23:10:15.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-06-06T00:08:18.261</Modified>
+      <Modified>2018-06-06T23:10:15.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T00:08:18.261</Modified>
+      <Modified>2018-06-06T23:10:15.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T00:08:18.277</Modified>
+      <Modified>2018-06-06T23:10:15.708</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T00:08:18.277</Modified>
+      <Modified>2018-06-06T23:10:15.708</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T00:08:18.292</Modified>
+      <Modified>2018-06-06T23:10:15.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T00:08:18.292</Modified>
+      <Modified>2018-06-06T23:10:15.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T00:08:18.292</Modified>
+      <Modified>2018-06-06T23:10:15.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-06-06T00:08:18.761</Modified>
+      <Modified>2018-06-06T23:10:16.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\ProjekatOOAD.xr.xml">
       <PackagePath>ProjekatOOAD.xr.xml</PackagePath>
-      <Modified>2018-06-06T01:45:49.874</Modified>
+      <Modified>2018-06-06T23:10:30.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-06-06T00:14:28.777</Modified>
+      <Modified>2018-06-13T20:20:31.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\Views\AdministratorForma.xbf">
       <PackagePath>Views\AdministratorForma.xbf</PackagePath>
-      <Modified>2018-06-06T13:01:28.768</Modified>
+      <Modified>2018-06-13T20:20:32.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2018-06-06T13:01:28.834</Modified>
+      <Modified>2018-06-13T20:20:32.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -588,11 +588,11 @@
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-06T21:05:49.719</Modified>
+      <Modified>2018-06-13T20:20:45.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Esma\Desktop\Grupa4-Osiguraci\Projekat\ProjekatOOAD\bin\x64\Debug\Core\ProjekatOOAD.exe">
       <PackagePath>ProjekatOOAD.exe</PackagePath>
-      <Modified>2018-06-06T21:05:51.648</Modified>
+      <Modified>2018-06-13T21:39:25.094</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
